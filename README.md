@@ -1,8 +1,8 @@
-**MACHINE LEARNING / PEMBELAJARAN MESIN**
+# **Machine Learning / Pembelajaran Mesin**
 
-Nama : Fariz Ikhsan
+Nama  : Fariz Ikhsan
 
-NIM : 1103170287
+NIM   : 1103170287
 
 Kelas : TK 42-G6
 
