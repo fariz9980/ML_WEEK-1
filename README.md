@@ -1,4 +1,4 @@
-# **Machine Learning / Pembelajaran Mesin**
+# Machine Learning / Pembelajaran Mesin
 
 Nama  : Fariz Ikhsan
 
